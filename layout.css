@@ -1,0 +1,99 @@
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #fac564;
+}
+
+.ImageContainter {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+  	width: 10%;
+  	height: 10%
+}
+
+.img {
+  width: 100%;
+  height:100%;
+}
+
+.tittletext {
+  color: white;
+  font-size:50px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  textfiled;
+  height: 100%;
+  width: 100%;
+  opacity: 0.2;
+  transition: 1s ease;
+  background-color: #fac564d1;
+}
+
+.text {
+  color: black;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.ImageContainter:hover .overlay {
+  opacity: 1;
+}
+.text {
+  color: black;
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.textfield {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+
+}
+.textarea {
+  	box-sizing: border-box;
+  	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+  	width: 50%;
+  	height: 50px
+  	
+}
+
+.convertimage {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+  	width: 10%;
+  	height: 10%
+}
+h5 {
+	color:white;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
