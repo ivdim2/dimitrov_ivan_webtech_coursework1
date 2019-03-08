@@ -10,9 +10,11 @@
 	In order to write theese ciphers I have used the following resources:
 	www.freecodecamp.org
 	www.w3schools.com
+
 **2.Software design.**
 	When starting to write this project i've decided to create a simple good looking menu from which the user can choose which of the ciphers to use and then if possible the  User interface to decrypt and encrypt the text using the same input and output field. 
 I wanted to have a modern rounded look with bright colours in order to look atractive for the user.
+
 **3.Implementation.** 
 	I have chosen to create a menu where the user can pick which one of the cphers to use then
 	this will lead him to another page where he can encrypt or decrypt a messege.
@@ -21,11 +23,11 @@ I wanted to have a modern rounded look with bright colours in order to look atra
 ![Image 2 This is the Rot13 Encoder and Decoder.](https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-0/p280x280/53117722_793361491024729_3882624545521139712_n.png?_nc_cat=110&_nc_ht=scontent-lhr3-1.xx&oh=668d25c3652f89f5087543b48f6029b0&oe=5CDDD8D0)	
 ![Baconian Encoder and Decoder](https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-0/p280x280/53313415_809526849407460_8378785233700388864_n.png?_nc_cat=105&_nc_ht=scontent-lhr3-1.xx&oh=a07d12b93cd2f8b28b379a4421943a9c&oe=5D1B85E2)
    
-**5.Improvements.**
+**4.Improvements.**
 Possible improvements would be to add some more ciphers.I am satisfied with the design.When Creating this webpage I have tried to cover all the requirmensts from the document but due to the lack of knowledge in Web Development I was only able to Exceed the Minimum Requirments for the webiste.
-**6.Evaluation.**
+**5.Evaluation.**
 I have learned that javascript is a very powerful languge and can add a big part of the functionality of the website without the need of any backend calculations or scripts.
-**7.References**
+**6.References**
  Javascript , html & css written with the help of :
 -www.freecodecamp.org
 -www.w3schools.com
