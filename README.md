@@ -25,8 +25,10 @@ I wanted to have a modern rounded look with bright colours in order to look atra
    
 **4.Improvements.**
 Possible improvements would be to add some more ciphers.I am satisfied with the design.When Creating this webpage I have tried to cover all the requirmensts from the document but due to the lack of knowledge in Web Development I was only able to Exceed the Minimum Requirments for the webiste.
+
 **5.Evaluation.**
 I have learned that javascript is a very powerful languge and can add a big part of the functionality of the website without the need of any backend calculations or scripts.
+
 **6.References**
  Javascript , html & css written with the help of :
 -www.freecodecamp.org
